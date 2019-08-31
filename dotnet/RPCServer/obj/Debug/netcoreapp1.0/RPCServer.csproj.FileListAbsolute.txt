@@ -1,0 +1,10 @@
+C:\dev\treinamento-mensageria\dotnet\RPCServer\bin\Debug\netcoreapp1.0\RPCServer.deps.json
+C:\dev\treinamento-mensageria\dotnet\RPCServer\bin\Debug\netcoreapp1.0\RPCServer.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\RPCServer\bin\Debug\netcoreapp1.0\RPCServer.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\RPCServer\bin\Debug\netcoreapp1.0\RPCServer.dll
+C:\dev\treinamento-mensageria\dotnet\RPCServer\bin\Debug\netcoreapp1.0\RPCServer.pdb
+C:\dev\treinamento-mensageria\dotnet\RPCServer\obj\Debug\netcoreapp1.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\RPCServer\obj\Debug\netcoreapp1.0\RPCServer.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\RPCServer\obj\Debug\netcoreapp1.0\RPCServer.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\RPCServer\obj\Debug\netcoreapp1.0\RPCServer.dll
+C:\dev\treinamento-mensageria\dotnet\RPCServer\obj\Debug\netcoreapp1.0\RPCServer.pdb

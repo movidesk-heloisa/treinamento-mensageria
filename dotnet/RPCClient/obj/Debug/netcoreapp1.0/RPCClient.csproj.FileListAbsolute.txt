@@ -1,0 +1,10 @@
+C:\dev\treinamento-mensageria\dotnet\RPCClient\bin\Debug\netcoreapp1.0\RPCClient.deps.json
+C:\dev\treinamento-mensageria\dotnet\RPCClient\bin\Debug\netcoreapp1.0\RPCClient.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\RPCClient\bin\Debug\netcoreapp1.0\RPCClient.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\RPCClient\bin\Debug\netcoreapp1.0\RPCClient.dll
+C:\dev\treinamento-mensageria\dotnet\RPCClient\bin\Debug\netcoreapp1.0\RPCClient.pdb
+C:\dev\treinamento-mensageria\dotnet\RPCClient\obj\Debug\netcoreapp1.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\RPCClient\obj\Debug\netcoreapp1.0\RPCClient.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\RPCClient\obj\Debug\netcoreapp1.0\RPCClient.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\RPCClient\obj\Debug\netcoreapp1.0\RPCClient.dll
+C:\dev\treinamento-mensageria\dotnet\RPCClient\obj\Debug\netcoreapp1.0\RPCClient.pdb

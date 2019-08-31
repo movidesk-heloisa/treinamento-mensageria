@@ -1,0 +1,11 @@
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\bin\Debug\netcoreapp1.0\EmitLogDirect.deps.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\bin\Debug\netcoreapp1.0\EmitLogDirect.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\bin\Debug\netcoreapp1.0\EmitLogDirect.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\bin\Debug\netcoreapp1.0\EmitLogDirect.dll
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\bin\Debug\netcoreapp1.0\EmitLogDirect.pdb
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.csprojAssemblyReference.cache
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.dll
+C:\dev\treinamento-mensageria\dotnet\EmitLogDirect\obj\Debug\netcoreapp1.0\EmitLogDirect.pdb

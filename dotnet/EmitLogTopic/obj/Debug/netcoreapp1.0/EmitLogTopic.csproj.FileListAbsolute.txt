@@ -1,0 +1,10 @@
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\bin\Debug\netcoreapp1.0\EmitLogTopic.deps.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\bin\Debug\netcoreapp1.0\EmitLogTopic.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\bin\Debug\netcoreapp1.0\EmitLogTopic.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\bin\Debug\netcoreapp1.0\EmitLogTopic.dll
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\bin\Debug\netcoreapp1.0\EmitLogTopic.pdb
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\obj\Debug\netcoreapp1.0\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\obj\Debug\netcoreapp1.0\EmitLogTopic.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\obj\Debug\netcoreapp1.0\EmitLogTopic.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\obj\Debug\netcoreapp1.0\EmitLogTopic.dll
+C:\dev\treinamento-mensageria\dotnet\EmitLogTopic\obj\Debug\netcoreapp1.0\EmitLogTopic.pdb

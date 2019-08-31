@@ -1,0 +1,11 @@
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\bin\Debug\netcoreapp1.0\ReceiveLogsDirect.deps.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\bin\Debug\netcoreapp1.0\ReceiveLogsDirect.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\bin\Debug\netcoreapp1.0\ReceiveLogsDirect.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\bin\Debug\netcoreapp1.0\ReceiveLogsDirect.dll
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\bin\Debug\netcoreapp1.0\ReceiveLogsDirect.pdb
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.csprojAssemblyReference.cache
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.dll
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsDirect\obj\Debug\netcoreapp1.0\ReceiveLogsDirect.pdb

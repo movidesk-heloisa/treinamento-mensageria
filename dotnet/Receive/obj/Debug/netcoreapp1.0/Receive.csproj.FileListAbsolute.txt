@@ -1,0 +1,11 @@
+C:\dev\treinamento-mensageria\dotnet\Receive\bin\Debug\netcoreapp1.0\Receive.deps.json
+C:\dev\treinamento-mensageria\dotnet\Receive\bin\Debug\netcoreapp1.0\Receive.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\Receive\bin\Debug\netcoreapp1.0\Receive.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\Receive\bin\Debug\netcoreapp1.0\Receive.dll
+C:\dev\treinamento-mensageria\dotnet\Receive\bin\Debug\netcoreapp1.0\Receive.pdb
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.csprojAssemblyReference.cache
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.dll
+C:\dev\treinamento-mensageria\dotnet\Receive\obj\Debug\netcoreapp1.0\Receive.pdb

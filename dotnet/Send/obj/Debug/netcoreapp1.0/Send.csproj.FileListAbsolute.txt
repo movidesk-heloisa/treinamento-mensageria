@@ -1,0 +1,11 @@
+C:\dev\treinamento-mensageria\dotnet\Send\bin\Debug\netcoreapp1.0\Send.deps.json
+C:\dev\treinamento-mensageria\dotnet\Send\bin\Debug\netcoreapp1.0\Send.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\Send\bin\Debug\netcoreapp1.0\Send.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\Send\bin\Debug\netcoreapp1.0\Send.dll
+C:\dev\treinamento-mensageria\dotnet\Send\bin\Debug\netcoreapp1.0\Send.pdb
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.csprojAssemblyReference.cache
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.dll
+C:\dev\treinamento-mensageria\dotnet\Send\obj\Debug\netcoreapp1.0\Send.pdb

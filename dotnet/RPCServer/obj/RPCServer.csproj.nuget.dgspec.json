@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\treinamento-mensageria\\dotnet\\RPCServer\\RPCServer.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\treinamento-mensageria\\dotnet\\RPCServer\\RPCServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\treinamento-mensageria\\dotnet\\RPCServer\\RPCServer.csproj",
+        "projectName": "RPCServer",
+        "projectPath": "C:\\dev\\treinamento-mensageria\\dotnet\\RPCServer\\RPCServer.csproj",
+        "packagesPath": "C:\\Users\\2018-0138\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\treinamento-mensageria\\dotnet\\RPCServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2018-0138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.*, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\bin\Debug\netcoreapp1.0\ReceiveLogsTopic.deps.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\bin\Debug\netcoreapp1.0\ReceiveLogsTopic.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\bin\Debug\netcoreapp1.0\ReceiveLogsTopic.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\bin\Debug\netcoreapp1.0\ReceiveLogsTopic.dll
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\bin\Debug\netcoreapp1.0\ReceiveLogsTopic.pdb
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\obj\Debug\netcoreapp1.0\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\obj\Debug\netcoreapp1.0\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\obj\Debug\netcoreapp1.0\ReceiveLogsTopic.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\obj\Debug\netcoreapp1.0\ReceiveLogsTopic.dll
+C:\dev\treinamento-mensageria\dotnet\ReceiveLogsTopic\obj\Debug\netcoreapp1.0\ReceiveLogsTopic.pdb

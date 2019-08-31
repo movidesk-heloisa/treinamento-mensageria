@@ -1,0 +1,10 @@
+C:\dev\treinamento-mensageria\dotnet\NewTask\bin\Debug\netcoreapp1.0\NewTask.deps.json
+C:\dev\treinamento-mensageria\dotnet\NewTask\bin\Debug\netcoreapp1.0\NewTask.runtimeconfig.json
+C:\dev\treinamento-mensageria\dotnet\NewTask\bin\Debug\netcoreapp1.0\NewTask.runtimeconfig.dev.json
+C:\dev\treinamento-mensageria\dotnet\NewTask\bin\Debug\netcoreapp1.0\NewTask.dll
+C:\dev\treinamento-mensageria\dotnet\NewTask\bin\Debug\netcoreapp1.0\NewTask.pdb
+C:\dev\treinamento-mensageria\dotnet\NewTask\obj\Debug\netcoreapp1.0\NewTask.csproj.CoreCompileInputs.cache
+C:\dev\treinamento-mensageria\dotnet\NewTask\obj\Debug\netcoreapp1.0\NewTask.AssemblyInfoInputs.cache
+C:\dev\treinamento-mensageria\dotnet\NewTask\obj\Debug\netcoreapp1.0\NewTask.AssemblyInfo.cs
+C:\dev\treinamento-mensageria\dotnet\NewTask\obj\Debug\netcoreapp1.0\NewTask.dll
+C:\dev\treinamento-mensageria\dotnet\NewTask\obj\Debug\netcoreapp1.0\NewTask.pdb
